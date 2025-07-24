@@ -35,6 +35,11 @@ This version uses public data from the Minneapolis Police Department as a starti
 
 - Python 3.9 or later
 - pip
+- streamlit
+- pandas
+- folium
+- streamlit-folium
+
 
 ### Install Dependencies
 
